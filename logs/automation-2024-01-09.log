@@ -1,0 +1,50 @@
+15:25:58.345 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+15:25:58.349 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started......
+15:25:58.578 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+15:25:59.675 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+15:25:59.675 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+15:26:01.363 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed..
+15:26:01.364 [main] DEBUG testCases.TC_001_AccountRegistrationTest - debug logs....
+15:27:59.291 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+15:27:59.296 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started......
+15:27:59.433 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+15:27:59.926 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+15:27:59.926 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+15:28:00.579 [main] INFO  testCases.TC_001_AccountRegistrationTest - Set Privacy policy
+15:28:01.764 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed..
+15:28:01.765 [main] DEBUG testCases.TC_001_AccountRegistrationTest - debug logs....
+13:02:16.569 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+13:02:16.575 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started......
+13:02:16.719 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+13:02:17.189 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+13:02:17.190 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+13:02:17.673 [main] INFO  testCases.TC_001_AccountRegistrationTest - Set Privacy policy
+13:02:18.823 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed..
+13:02:18.824 [main] DEBUG testCases.TC_001_AccountRegistrationTest - debug logs....
+13:03:17.188 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+13:03:17.192 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started......
+13:03:17.360 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+13:03:18.057 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+13:03:18.057 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+13:03:18.570 [main] INFO  testCases.TC_001_AccountRegistrationTest - Set Privacy policy
+13:03:19.726 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed..
+13:03:19.727 [main] DEBUG testCases.TC_001_AccountRegistrationTest - debug logs....
+13:05:33.371 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+13:05:33.379 [TestNG-tests-1] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started......
+13:05:33.610 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+13:05:34.342 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+13:05:34.343 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+13:05:35.359 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Set Privacy policy
+13:05:35.603 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+13:05:35.603 [TestNG-tests-2] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started......
+13:05:36.139 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+13:05:36.749 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - test failed..
+13:05:36.750 [TestNG-tests-1] DEBUG testCases.TC_001_AccountRegistrationTest - debug logs....
+13:05:36.970 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+13:05:36.970 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+13:05:37.587 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Set Privacy policy
+13:05:38.717 [TestNG-tests-2] ERROR testCases.TC_001_AccountRegistrationTest - test failed..
+13:05:38.718 [TestNG-tests-2] DEBUG testCases.TC_001_AccountRegistrationTest - debug logs....
+13:40:00.553 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+13:40:00.558 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started......
+13:40:00.885 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
